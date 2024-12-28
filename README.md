@@ -53,3 +53,8 @@ Typing... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scared-of-female&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scared-of-female&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :smile: Random Programming Jokes :
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=black&borderColor=white&aColor=white)
